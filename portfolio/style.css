@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+}
+*,
+::after,
+::before {
+  box-sizing: inherit;
+}
+
+/*-----------------------------------*/
+
+body {
+  text-align: center;
+}
+
+img,
+input,
+textarea {
+  display: block;
+  margin: 0 auto;
+}
