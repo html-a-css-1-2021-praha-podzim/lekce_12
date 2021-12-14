@@ -21,6 +21,7 @@ body {
   text-align: center;
   color: var(--primary-color);
   font-family: var(--text-font);
+  background-color: var(--secondary-color);
 }
 
 a {
